@@ -69,7 +69,7 @@ background: #555;
     background-color: rgb(31, 133, 24);
     color:rgb(231, 231, 238);
 }
-#NoSmokeList li:nth-child(-n+60){
+#NoSmokeList li:nth-child(-n+45){
     background-color: rgb(216, 214, 70);
     color:rgb(0, 29, 91);
 }
